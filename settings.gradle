@@ -1,0 +1,9 @@
+rootProject.name = 'OSSRH-library-publish-demo'
+
+signing.keyId={"2059D0AD"}
+signing.password={"ModMad@30!!"}
+signing.secretKeyRingFile={"E5DBB773CC146568BBD87F10DCE3FB142059D0AD"}
+
+ossrhUsername={"AbdelHalim Mahmoud"}
+ossrhPassword={"ModMad@30!!"}
+
